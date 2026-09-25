@@ -17,7 +17,6 @@ public class Huesped {
      * @param paisProcedencia del Huesped
      */
 
-
     public Huesped(String nombre, String documento, int telefono, String correo, String paisProcedencia) {
         this.nombre = nombre;
         this.documento = documento;

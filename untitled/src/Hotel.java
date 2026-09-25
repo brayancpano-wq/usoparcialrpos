@@ -1,7 +1,6 @@
 package uniquindio.edu.co.model;
 
 import uniquindio.edu.co.model.Huesped;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,7 +18,6 @@ public class Hotel {
     private List<Huesped> listHotelHuesped;
     private List<Reserva> listHotelReserva;
     private List<ServicioAdicional> listHotelServicioAdicional;
-
 
     /**
      * Metodo constructor de la clase Hotel
