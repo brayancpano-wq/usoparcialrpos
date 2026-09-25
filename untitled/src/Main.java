@@ -15,7 +15,6 @@ public class Main {
                 100032255, "Cra 13 Calle 8-67",1231,
                 "stayplus.com");
 
-
         int opcion = 0;
         while(opcion != 6){
             opcion = Integer.parseInt(JOptionPane.showInputDialog(null, """
