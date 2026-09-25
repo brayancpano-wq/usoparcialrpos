@@ -21,9 +21,9 @@ import java.util.List;
          * @param disponibilidad del servicioAdicional
          */
 
-        public servicioAdicional (String nombre, int codigo, String descripcion,double precio, boolean disponibilidad){
-            this.nombre = nombre;
+        public servicioAdicional (int codigo,String nombre, String descripcion,double precio, boolean disponibilidad){
             this.codigo = codigo;
+            this.nombre = nombre;
             this.descripcion =descripcion;
             this.precio= precio;
             this.disponibilidad = disponibilidad;

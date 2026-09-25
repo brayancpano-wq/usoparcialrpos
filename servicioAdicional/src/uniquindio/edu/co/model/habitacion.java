@@ -21,10 +21,11 @@ public class habitacion {
      * @param estado del servicioAdicional
      */
 
-    public habitacion (String tipoHabitacion , int numeroHabitacion , String capacidadMaxima ,
+    public habitacion (int numeroHabitacion,
+                       String tipoHabitacion, String capacidadMaxima ,
                               double precioNoche,String estado){
-        this.tipoHabitacion =tipoHabitacion ;
         this.numeroHabitacion = numeroHabitacion;
+        this.tipoHabitacion = tipoHabitacion ;
         this.capacidadMaxima =capacidadMaxima;
         this.precioNoche= precioNoche;
         this.estado = estado;
