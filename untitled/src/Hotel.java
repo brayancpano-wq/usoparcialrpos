@@ -4,6 +4,7 @@ import uniquindio.edu.co.model.Huesped;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Hotel {
 
     //Atributos de la clase Hotel

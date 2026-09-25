@@ -2,6 +2,7 @@ package uniquindio.edu.co.model;
 
 import java.util.List;
 
+
 public class Huesped {
 
     // Atributos de la clase Huesped
