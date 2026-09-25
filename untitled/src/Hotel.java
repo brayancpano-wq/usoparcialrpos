@@ -19,6 +19,7 @@ public class Hotel {
     private List<Reserva> listHotelReserva;
     private List<ServicioAdicional> listHotelServicioAdicional;
 
+
     /**
      * Metodo constructor de la clase Hotel
      * @param nombre del Hotel

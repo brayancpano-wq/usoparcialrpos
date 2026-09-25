@@ -25,6 +25,7 @@ public class Huesped {
         this.paisProcedencia = paisProcedencia;
     }
 
+
     public String getNombre() {
         return nombre;
     }
